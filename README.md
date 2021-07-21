@@ -11,14 +11,18 @@
 
 ---
 
-###GITHUB STATS
+### GITHUB STATS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onohite&show_icons=false&theme=cobalt)
 
-###Golang Backend Demo
+<br />
+
+### Golang Backend Demo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onohite&repo=petProject)](https://github.com/onohite/petProject)
 
-###Haha without golang..
+<br />
+
+### Haha without golang..
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onohite)](https://github.com/onohite)
 
 <br />
@@ -27,6 +31,8 @@
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/7ASQPty7dSWufFW6Vmghi8?si=cae0862bd50547f8)
 
 ---
+
+<br />
 
 ### Contact with me:
 [<img align="center" alt="onohite"  style="margin:10px" src="https://img.icons8.com/color/50/000000/telegram-app--v3.png" />][telegram]

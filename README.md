@@ -35,9 +35,9 @@
 <br />
 
 ### Contact with me:
-[<img align="center" alt="onohite"  style="margin:10px" src="https://img.icons8.com/color/50/000000/telegram-app--v3.png" />][telegram]
-[<img align="center" alt="onohite |  LinkedIn" style="margin:10px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
-[<img align="center" alt="onohite | Instagram"  style="margin:10px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
+[<img align="center" alt="onohite"  width=43px style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="center" alt="onohite |  LinkedIn" width=43px style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="onohite | Instagram"  width=43px style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 

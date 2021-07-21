@@ -17,7 +17,7 @@
 
 <br />
 
-### Golang Backend Demo
+### Golang Backend Demo :feelsgood:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onohite&repo=petProject)](https://github.com/onohite/petProject)
 
 <br />
@@ -27,7 +27,7 @@
 
 <br />
 
-### Spotify Playing :godmode: | :feelsgood:
+### Spotify Playing :godmode:  
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/7ASQPty7dSWufFW6Vmghi8?si=cae0862bd50547f8)
 
 ---
@@ -35,9 +35,9 @@
 <br />
 
 ### Contact with me:
-[<img align="center" alt="onohite"  width=43px style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="center" alt="onohite |  LinkedIn" width=43px style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="onohite | Instagram"  width=43px style="margin:10px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="onohite"  width=43px style="margin:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="center" alt="onohite |  LinkedIn" width=43px style="margin:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="onohite | Instagram"  width=43px style="margin:20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 

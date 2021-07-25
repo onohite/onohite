@@ -30,6 +30,11 @@
 ### Spotify Playing :godmode:  
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/7ASQPty7dSWufFW6Vmghi8?si=cae0862bd50547f8)
 
+<br />
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 <br />

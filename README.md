@@ -32,6 +32,7 @@
 
 <br />
 
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#20](https://github.com/yeroxo/petProject/pull/20) in [yeroxo/petProject](https://github.com/yeroxo/petProject)
 2. 🎉 Merged PR [#19](https://github.com/yeroxo/petProject/pull/19) in [yeroxo/petProject](https://github.com/yeroxo/petProject)

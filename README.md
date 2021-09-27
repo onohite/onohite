@@ -22,8 +22,8 @@
 
 <br />
 
-### Haha without golang..
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onohite)](https://github.com/onohite)
+### Languages stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onohite&langs_count=6)](https://github.com/onohite)
 
 <br />
 

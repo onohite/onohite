@@ -1,7 +1,19 @@
 ### Hi there, I'm Golang developer from Russia 🌎
 
 - 🌱 I’m currently learning backend ✌
-- 👻 2021 Goals: Contribute more to Open Source projects
+- 👻 2021 Goals: 
+
+  :white_check_mark: 1. Change a job
+  
+  :white_check_mark: 2. Participate in golang meetup
+  
+  :white_check_mark: 3. Build up my skills and develop
+  
+- :shipit: 2022 Goals:
+  1. Grow up to be an international-level middle developer
+  2. Build more skills as an architect and backender
+  3. Improve social skills
+  4. Try to contribute open-source projects
 - 🎮 Fun fact: I love to play games and stream on twitch
 
 

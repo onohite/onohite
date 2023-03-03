@@ -9,12 +9,23 @@
   
   :white_check_mark: 3. Build up my skills and develop
   
-- :shipit: 2022 Goals:
-  1. Grow up to be an international-level middle developer
-  2. Build more skills as an architect and backender
-  3. Improve social skills
-  4. Try to contribute open-source projects
-- 🎮 Fun fact: I love to play games and stream on twitch
+- 2022 Goals:
+
+  :white_check_mark: 1. Participated in the development of a major product
+
+  :white_check_mark: 2. Graduated from university
+
+  :white_check_mark: 3. I started my development path
+  
+- :shipit: 2023 Goals:
+
+  :white_check_mark: 1. Build more skills as an architect and backend
+
+  :white_check_mark: 2. Improve social skills
+
+  :white_check_mark: 3. Try to contribute open-source projects
+
+- 🎮 Fun fact: I love to play games and watch basketball
 
 
 <br />

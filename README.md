@@ -19,11 +19,11 @@
   
 - :shipit: 2023 Goals:
 
-  :white_check_mark: 1. Build more skills as an architect and backend
+  1. Build more skills as an architect and backend
 
-  :white_check_mark: 2. Improve social skills
+  2. Improve social skills
 
-  :white_check_mark: 3. Try to contribute open-source projects
+  3. Try to contribute open-source projects
 
 - 🎮 Fun fact: I love to play games and watch basketball
 
